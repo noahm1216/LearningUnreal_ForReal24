@@ -72,3 +72,18 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Wwise
+.backup*
+.cache*
+*.akd
+*.prof
+*.validationcache
+*.wsettings
+*.a (I don’t know about these audio engine files)
+WwiseSettings.xml
+IncrementalSoundBankData.xml
+WwiseUnityIntegration_Mac_Src.zip
+WwiseUnityIntegration_Windows_Src.zip
+AkWwiseProjectData.asset
+Aestro_FightClubArena/Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset
