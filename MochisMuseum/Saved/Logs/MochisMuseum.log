@@ -1477,3 +1477,47 @@ Would you like to open the Output Log to see more details?
 [2024.11.26-20.13.38:857][859]LogSlate: Window 'Override UI Layout "Unrea5lLayout_ButLikeUnity"?' being destroyed
 [2024.11.26-20.13.38:864][859]Message dialog closed, result: Ok, title: Override UI Layout "Unrea5lLayout_ButLikeUnity"?, text: Are you sure you want to permanently override the layout profile "Unrea5lLayout_ButLikeUnity" with the current layout profile? This action cannot be undone.
 [2024.11.26-20.13.38:864][859]LogSlate: Window 'Save Layout As' being destroyed
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: ================================================
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Total job queries 164, among them cache hits 5 (3.05%), DDC hits 144 (87.80%), Duplicates 5 (3.05%)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Tracking 154 distinct input hashes that result in 142 distinct outputs (92.21%)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: RAM used: 117.81 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Shaders Compiled: 10
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 1.92 s
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Job execution time: average 1.98 s, max 2.51 s
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Job life time (pending + execution): average 2.19 s, max 2.93
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Shader code size: average 7.898 KiB, min 5.012 KiB, max 12.055 KiB
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.94 s
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Average processing rate: 3.40 jobs/sec
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Total thread time: 10.376 s
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Total thread preprocess time: 3.124 s
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Percentage time preprocessing: 30.11%
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Effective parallelization: 3.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.28 sec, max 1.31 sec, min 1.26 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.88 sec, max 0.91 sec, min 0.85 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.75 sec, max 0.93 sec, min 0.58 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.73% of total time (compiled    2 times, average 1.28 sec, max 1.31 sec, min 1.26 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                                 FLumenCardPS - 18.77% of total time (compiled    2 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.99% of total time (compiled    2 times, average 0.88 sec, max 0.91 sec, min 0.85 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.95% of total time (compiled    2 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display:                                                FAnisotropyPS - 14.55% of total time (compiled    2 times, average 0.75 sec, max 0.93 sec, min 0.58 sec)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: === Material stats ===
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Materials Translated:    131
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Material Translation Only: 0.05 s (35%)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: Material Cache Hits: 18 (14%)
+[2024.11.26-20.15.03:646][ 11]LogShaderCompilers: Display: ================================================
+[2024.11.26-20.16.43:142][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 647.220398
+[2024.11.26-20.16.44:143][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.26-20.16.44:143][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 647.887207, Update Interval: 340.039062
