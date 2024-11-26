@@ -86,3 +86,6 @@ IncrementalSoundBankData.xml
 WwiseUnityIntegration_Mac_Src.zip
 WwiseUnityIntegration_Windows_Src.zip
 AkWwiseProjectData.asset
+
+# Mac
+*.DS_Store
