@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Unreal_Project\\Artstation_Demo_2024\\LearningUnreal_ForReal24\\MochisMuseum\\Source\\MochisMuseum\\MochisMuseum.Build.cs",
-		"D:\\Unreal_Project\\Artstation_Demo_2024\\LearningUnreal_ForReal24\\MochisMuseum\\Source\\MochisMuseum.Target.cs",
-		"D:\\Unreal_Project\\Artstation_Demo_2024\\LearningUnreal_ForReal24\\MochisMuseum\\Source\\MochisMuseumEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.0"
-}
