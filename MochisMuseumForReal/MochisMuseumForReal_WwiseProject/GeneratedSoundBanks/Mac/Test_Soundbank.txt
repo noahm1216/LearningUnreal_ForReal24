@@ -1,3 +1,0 @@
-In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	546778210	test_SFX	Y:\Game Development\Aestronauts\UE5 Practice - Art Gallery\LearningUnreal_ForReal24\MochisMuseumForReal\MochisMuseumForReal_WwiseProject\.cache\6E\{6E5A01AE-722C-3FE6-952C-D8BC785B34B0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\test_SFX		14301376
-
