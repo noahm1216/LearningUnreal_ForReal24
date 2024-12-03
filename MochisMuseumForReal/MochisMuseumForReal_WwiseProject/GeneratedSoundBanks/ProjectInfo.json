@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "MochisMuseumForReal_WwiseProject",
+   "GUID": "{916FE547-863E-467C-B12F-37C335A8F2F5}",
+   "Generator": "2024.1.0.8669"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{6880EFA0-9F9E-43A6-A31F-76D1C5B36EA3}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{E76DEAE9-3F4A-42F1-93BA-2342CEA5BD5A}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{D54805EB-610F-4F0E-B467-6795B6CF8052}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{C795DA17-9CF3-D2C7-9ACD-A680AC5B3113}"
+ }
+}
