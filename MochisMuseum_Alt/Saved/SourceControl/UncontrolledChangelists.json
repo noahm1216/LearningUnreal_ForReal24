@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal_Project/Artstation_Demo_2024/LearningUE5_Alt/MochisMuseum_Alt/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Unreal_Project/Artstation_Demo_2024/LearningUE5_Alt/MochisMuseum_Alt/Content/WwiseAudio/WwiseMultiReferenceAssetLibrary.uasset",
+				"D:/Unreal_Project/Artstation_Demo_2024/LearningUE5_Alt/MochisMuseum_Alt/Content/WwiseAudio/DefaultGeometrySurfacePropertiesTable.uasset",
+				"D:/Unreal_Project/Artstation_Demo_2024/LearningUE5_Alt/MochisMuseum_Alt/Content/WwiseAudio/DefaultReverbAssignmentTable.uasset",
+				"/Users/gabrielpriem/Game Development/Aestronauts/UE5 Practice - Art Gallery/LearningUE5_Alt/MochisMuseum_Alt/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+			]
+		}
+	]
+}
